@@ -4,6 +4,12 @@ Compation materials for the paper "A Data-Driven Introduction to the State-of-th
 Hello, in order to replicate my paper you need to get your hands on the VIS4DH dataset I curated [here](https://docs.google.com/spreadsheets/d/1TCnEIfbyow7s7_qnl_KZs4cUZjrt4bpz5C8VJLe-XIA/edit?usp=sharing)
 Just add the dataset, make the Jupyter notebook use it and voilá. It will take you to the different tecniques I applied using mainly sklearn, nltk, bokeh and networkx. 
 
-In end, you will generate a beautiful strategic diagram and associated keyword netowrk to explore. 
+
+In end, you will generate a beautiful [strategic diagram](http://ubicomp.oulu.fi/analysis-of-the-chi-research-communitys-knowledge-map/) and associated keyword network you can explore. in the notebook.
+
+
+![alt text](img/keywords-network.png)
+
+
 Anything, just send an email or open a GH issue / PR. 
 Hope you find all this as much interesting as I do!
