@@ -8,5 +8,7 @@ In the end, the notebook produces a [strategic diagram](http://ubicomp.oulu.fi/a
 
 ![alt text](img/keywords-network.png)
 
+![alt text](img/strategic-diagram.png)
+
 
 Anything, just send an email or open a GH issue / PR.
