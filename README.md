@@ -6,9 +6,6 @@ Just add the dataset, make the Jupyter notebook use it and voilá. It will take 
 
 In the end, the notebook produces a [strategic diagram](http://ubicomp.oulu.fi/analysis-of-the-chi-research-communitys-knowledge-map/) and an associated keywords network (see below).
 
-![alt text](img/keywords-network.png)
-
 ![alt text](img/strategic-diagram.png)
 
-
-Anything, just send an email or open a GH issue / PR.
+![alt text](img/keywords-network.png)
