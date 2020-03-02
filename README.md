@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ale0xb/vis4dh-analysis/blob/master/analysis.ipynb)
+
 # vis4dh-keywords
 Compation materials for the paper "A Data-Driven Introduction to Authors, Readings and Techniques in Visualization for the Digital Humanities" (to appear in IEEE Computer Graphics & Applications).
 
