@@ -12,7 +12,6 @@ The notebook outputs a [strategic diagram](http://ubicomp.oulu.fi/analysis-of-th
 
 Please cite using 
 ```
-
 @article{benito-santos_data-driven_2020,
   title = {A {{Data}}-{{Driven Introduction}} to {{Authors}}, {{Readings}} and {{Techniques}} in {{Visualization}} for the {{Digital Humanities}}},
   author = {{Benito-Santos}, Alejandro and Ther{\'o}n S{\'a}nchez, Roberto},
