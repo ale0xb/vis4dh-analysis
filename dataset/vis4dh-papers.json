@@ -205,10 +205,11 @@
         "source": "Digital Humanities 2016",
         "year": 2016,
         "keywords": [
-            "crowdsourcing",
-            "cooccurrences",
-            "graph-based exploration",
-            "cultural heritage"
+            "bio-bibliography", 
+            "libretto studies", 
+            "musicology", 
+            "digital methods", 
+            "pedagogy"
         ],
         "authors": "Giannetti,Francesca;Kijas,Anna"
     },
@@ -338,11 +339,11 @@
         "source": "Digital Humanities 2016",
         "year": 2016,
         "keywords": [
-            "graphic novel",
-            "eye tracking",
-            "corpus studies",
-            "annotation tools",
-            "image processing"
+            "visualisation", 
+            "geo-historical gazetteers", 
+            "linked data publication and consumption", 
+            "spatio-temporal ontologies", 
+            "toponym annotation and geoparsing"
         ],
         "authors": "Brando,Carmen;Frontini,Francesca"
     },
@@ -401,11 +402,12 @@
         "source": "Digital Humanities 2016",
         "year": 2016,
         "keywords": [
-            "intellectual history",
-            "economic history",
-            "network analysis",
-            "collaboration",
-            "colocation"
+           "digital humanities", 
+           "data visualization", 
+           "trajectories", 
+           "actor-network theory", 
+           "timeline", 
+           "movement"
         ],
         "authors": "Rigal,Alexandre;Rodighiero,Dario;Cellard,Loup"
     },
@@ -763,11 +765,8 @@
         "source": "Digital Humanities 2016",
         "year": 2016,
         "keywords": [
-            "topic modelling",
-            "finding aids",
-            "glam metadata organisation",
-            "multilinguality",
-            "morphosyntactic normalization"
+            "Maya glyphs", 
+            "t-SNE"
         ],
         "authors": "Can,Gulcan;Odobez,Jean-Marc;Pallan Gayol,Carlos;Gatica-Perez,Daniel"
     },
@@ -2615,7 +2614,7 @@
         "keywords": [
             "visualization",
             "cultural heritage",
-            "history",
+            "cultural history",
             "interface design",
             "image collections"
         ],
